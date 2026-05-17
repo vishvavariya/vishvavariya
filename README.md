@@ -24,3 +24,13 @@ Senior Software Engineer at **Tesla**
 - **LinkedIn:** [linkedin.com/in/vishvavariya](https://linkedin.com/in/YOUR_LINKEDIN)
 
 *"Building scalable systems by day, and interactive web magic by night."*
+
+---
+
+### ☕ Support the Journey
+
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+[![Buy Me A Coffee on Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20Me%20A%20Coffee-ff5f5f?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/vishvavariya)
+
+---
