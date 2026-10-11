@@ -6,6 +6,8 @@ Senior Software Engineer at **Tesla**
 
 ### 🚀 What I'm Working On
 
+- **[notchy.dev](https://notchy.dev)**: A Dynamic Island app for MacBooks.
+
 - **[vishva.lol](https://vishva.lol)**: A digital playground for my interactive web experiments and tools.
   - **[vishva.lol/sky-spy](https://vishva.lol/sky-spy)**: Identify aircraft flying directly above you in real-time. Live radar and flight tracking.
   - **[vishva.lol/roar](https://vishva.lol/roar)**: Drivable engine sim. Hold space, watch the needle climb, shift gears, hear it roar on the rev limiter.
