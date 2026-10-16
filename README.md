@@ -19,11 +19,13 @@ Senior Software Engineer at **Tesla**
   
   - *More experiments loading...*
 
+- **[Referrals](https://referrals.vishvavariya.com)**: Referral codes and sign-up bonuses for banks, credit cards, money transfer and shopping apps, with each offer's terms checked.
+
 ### 📫 Connect with me:
 
 - **Portfolio:** [vishvavariya.com](https://vishvavariya.com)
 - **Experiments:** [vishva.lol](https://vishva.lol)
-- **LinkedIn:** [linkedin.com/in/vishvavariya](https://linkedin.com/in/YOUR_LINKEDIN)
+- **LinkedIn:** [linkedin.com/in/vishvavariya](https://linkedin.com/in/vishvavariya)
 
 *"Building scalable systems by day, and interactive web magic by night."*
 
